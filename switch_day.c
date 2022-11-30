@@ -33,7 +33,7 @@ int main(){
         break;
       default :
         printf(" :( ");
-        break;
+       
         
     }
 
